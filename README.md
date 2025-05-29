@@ -21,7 +21,8 @@ RideSentry is a safety-focused project designed to detect overloading on two-whe
 - `images/`: Prototype photos and screenshots
 
 ## 📷 Circuit Preview
-![Circuit Diagram](schematics/circuit_diagram.png)
+![Circuit Diagram]![image](https://github.com/user-attachments/assets/43287687-73f8-40e6-b3a1-a6120dbeb814)
+
 
 ## 📄 How It Works
 1. Load cell measures the weight on the bike seat.
